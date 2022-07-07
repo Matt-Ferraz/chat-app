@@ -7058,7 +7058,7 @@
     "locate-path" "^5.0.0"
     "path-exists" "^4.0.0"
 
-"firebase@^7.20.0":
+"firebase@^7.24.0":
   "integrity" "sha512-j6jIyGFFBlwWAmrlUg9HyQ/x+YpsPkc/TTkbTyeLwwAJrpAmmEHNPT6O9xtAnMV4g7d3RqLL/u9//aZlbY4rQA=="
   "resolved" "https://registry.npmjs.org/firebase/-/firebase-7.24.0.tgz"
   "version" "7.24.0"
@@ -14450,9 +14450,9 @@
   "version" "0.0.6"
 
 "typescript@^3.2.1", "typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta":
-  "integrity" "sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.7.4.tgz"
-  "version" "4.7.4"
+  "integrity" "sha512-w6fIxVE/H1PkLKcCPsFqKE7Kv7QUwhU8qQY2MueZXWx5cPZdwFupLgKK3vntcK98BtNHZtAF4LA/yl2a7k8R6Q=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-3.9.10.tgz"
+  "version" "3.9.10"
 
 "uglify-es@^3.1.9":
   "integrity" "sha512-r+MU0rfv4L/0eeW3xZrd16t4NZfK8Ld4SWVglYBb7ez5uXFWHuVRs6xCTrf1yirs9a4j4Y27nn7SRfO6v67XsQ=="
